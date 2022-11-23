@@ -1234,22 +1234,22 @@ Blockly.Msg.Wifi_Gateway="Gateway"
 
 //Text with more functions
 
-Blockly.Msg.TEXT_APPEND_APPENDTEXT = "append text";
+Blockly.Msg.TEXT_APPEND_APPENDTEXT = "Concaténer texte";
 Blockly.Msg.TEXT_APPEND_HELPURL = "https://github.com/google/blockly/wiki/Text#text-modification";
 Blockly.Msg.TEXT_APPEND_TO = "to";
-Blockly.Msg.TEXT_APPEND_TOOLTIP = "Append some text to variable '%1'.";
+Blockly.Msg.TEXT_APPEND_TOOLTIP = "Concaténer le texte à la variable '%1'.";
 Blockly.Msg.TEXT_CHANGECASE_HELPURL = "https://github.com/google/blockly/wiki/Text#adjusting-text-case";
-Blockly.Msg.TEXT_CHANGECASE_OPERATOR_LOWERCASE = "to lower case";
-Blockly.Msg.TEXT_CHANGECASE_OPERATOR_TITLECASE = "to Title Case";
-Blockly.Msg.TEXT_CHANGECASE_OPERATOR_UPPERCASE = "to UPPER CASE";
-Blockly.Msg.TEXT_CHANGECASE_TOOLTIP = "Return a copy of the text in a different case.";
-Blockly.Msg.TEXT_CHARAT_FIRST = "get first letter";
-Blockly.Msg.TEXT_CHARAT_FROM_END = "get letter # from end";
-Blockly.Msg.TEXT_CHARAT_FROM_START = "get letter #";
+Blockly.Msg.TEXT_CHANGECASE_OPERATOR_LOWERCASE = "en minuscules";
+Blockly.Msg.TEXT_CHANGECASE_OPERATOR_TITLECASE = "Premières Lettres En Majuscules";
+Blockly.Msg.TEXT_CHANGECASE_OPERATOR_UPPERCASE = "en MAJUSCULES";
+Blockly.Msg.TEXT_CHANGECASE_TOOLTIP = "Retourne une copie du texte avec une casse différente.";
+Blockly.Msg.TEXT_CHARAT_FIRST = "Récupère la première lettre";
+Blockly.Msg.TEXT_CHARAT_FROM_END = "Récupère # lettres à partir de la fin";
+Blockly.Msg.TEXT_CHARAT_FROM_START = "Récupère la lettre #";
 Blockly.Msg.TEXT_CHARAT_HELPURL = "https://github.com/google/blockly/wiki/Text#extracting-text";
-Blockly.Msg.TEXT_CHARAT_INPUT_INTEXT = "in text";
-Blockly.Msg.TEXT_CHARAT_LAST = "get last letter";
-Blockly.Msg.TEXT_CHARAT_RANDOM = "get random letter";
+Blockly.Msg.TEXT_CHARAT_INPUT_INTEXT = "dans le texte";
+Blockly.Msg.TEXT_CHARAT_LAST = "récupère la dernière lettre";
+Blockly.Msg.TEXT_CHARAT_RANDOM = "récupère une lettre aléatoirement";
 Blockly.Msg.TEXT_CHARAT_TAIL = "";
 Blockly.Msg.TEXT_CHARAT_TOOLTIP = "Returns the letter at the specified position.";
 Blockly.Msg.TEXT_CREATE_JOIN_ITEM_TOOLTIP = "Add an item to the text.";
@@ -1296,8 +1296,8 @@ Blockly.Msg.TEXT_TRIM_TOOLTIP = "Return a copy of the text with spaces removed f
 
 //Conversions
 Blockly.Msg.CONV_tochar="Casting to char "; 
-Blockly.Msg.CONV_toString="Convert to String ";
-Blockly.Msg.CONV_decimal="Number of decimals";
+Blockly.Msg.CONV_toString="Convertir en chaine ";
+Blockly.Msg.CONV_decimal="Nombre de décimales";
 Blockly.Msg.CONV_tobyte="Casting to Byte ";
 Blockly.Msg.CONV_toint="Casting to Int ";
 Blockly.Msg.CONV_tounsigendint="Casting to unsigned Int ";
@@ -1306,10 +1306,10 @@ Blockly.Msg.CONV_tofloat="Casting to Float ";
 //Encoder
 Blockly.Msg.RotaryEncoderInit="Init Rotary Encoder";
 Blockly.Msg.RotaryEncoderNumber="Rotary Encoder";
-Blockly.Msg.RE_withoutInterrupt="without interrupts";
+Blockly.Msg.RE_withoutInterrupt="sans interruptions";
 Blockly.Msg.RE_PINDT="Pin DT";
 Blockly.Msg.RE_PINCLK="Pin CLK";
-Blockly.Msg.RE_READ="Read Value";
-Blockly.Msg.RE_WRITE="Write Value";
-Blockly.Msg.RE_Button="Button";
-Blockly.Msg.RE_Pressed="pressed?";
+Blockly.Msg.RE_READ="Lire Valeur";
+Blockly.Msg.RE_WRITE="Ecrire Valeur";
+Blockly.Msg.RE_Button="Bouton";
+Blockly.Msg.RE_Pressed="pressé ?";
